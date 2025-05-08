@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nueva Serie</title>
+</head>
+<body>
+<cente>
+    <!--Encabezado de la pagina-->
+    <header>
+        <h1 style="background-color: rgb(73, 16, 196);font-family:Times New Roman, Helvetica, sans-serif;">Nueva serie</h1>
+    </header>
+
+    <!--Seccion de serie destacada-->
+    <section>
+        <h2>The Blacklist</h2>
+
+        <article>
+            <h3>The Blacklist es una serie de televisión estadounidense de drama y crimen</h3>
+            <p><b>Una serie que revoluciona</b> ha sido publicada y creada por Jon Bokenkamp. Se estrenó en 2013  <i>revolucionar</i> la medicina natural.</p>
+
+               <blockquote>"Serie que dejo una marca  <strong>increible</strong> en la historia de la televisión
+                    <em>buena recomendaciones </em> en varios idiomas." -the Blacklist</blockquote>
+
+            
+            <p><mark>Fecha: 09 de Enero de 2013</mark> | <small>Publicado por: netflix</small></p>
+            <hr>
+        </article>
+
+        <article>
+            <h3>Biografia personal</h3>
+            <p>Kelvyn <b>Feliz</b> Mi Biografia</p>
+
+            <p>soy estudiante de ingenieria en softwar de la universidad <del>2024</del> <ins>05</ins> de marzo</p>
+
+            <p>Lo cual hoy le hablare brebe mente de mi vida academica trabajo como tecnico electromecanico en MARDOM <sub>Maritima</sub> </p>
+
+            <p><mark>Fecha: 15 de julio de 2024</mark> | <small>Publicado por: Kelvyn ismael feliz mendez</small></p>
+            <hr>
+        </article>
+    </section>
+
+    <!--Seccion de imagenes-->
+    <section>
+        <h2>Imagenes del Dia</h2>
+
+        <figure>
+            <img src="IMG/feliz" alt="foto personal" width="500" height="300">
+            <figcaption>Biografia personal</figcaption>
+        </figure>
+    </section>
+
+    <!--Trabajando con listas-->
+    <section>
+        <h2>Redes social</h2>
+
+        <ul style="list-style-type: square;">
+            <li><a href="https://www.instagram.com/sr.kelvyn?igsh=MWFpY3I2Y2YyendxdQ%3D%3D&utm_source=qr">Red social</a></li>
+            <li><a href="https://www.instagram.com/sr.kelvyn?igsh=MWFpY3I2Y2YyendxdQ%3D%3D&utm_source=qr">red social</a></li>
+            <li><a href=""></a></li>
+        </ul>
+    </section>
+
+    <!--Trabajando con tablas-->
+    <section>
+        <h2>Datos relevantes</h2>
+
+        <table bordr="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse;"> 
+            <tr>
+                <th>Fecha</th>
+                <th>Evento</th>
+                <th>Ubicacion</th>
+            </tr>
+            <tr>
+                <td>07 de mayo</td>
+                <td>Creacion de biografia</td>
+                <td>R.D.</td>
+            </tr>
+            <tr>
+                <td>09 De junio</td>
+                <td>Nacimiento</td>
+                <td>Santo domingo</td>
+            </tr>
+        </table>
+    </section>
+
+    <!--Sección de definiciones-->
+    <section>
+        <h2>Glosario</h2>
+        <dl>
+            <dt>Kelvyn</dt>
+            <dd>netflix</dd>
+            <dt>ESA</dt>
+            <dd>Maritima</dd>
+        </dl> 
+    </section>
+
+    <!--Sección de videos-->
+    <section>
+        <h2>Video Destacado</h2>
+        <p>Observa el siguiente video</p>
+        <iframe width="560" height="315" src="https://youtu.be/-ikcS5PHSug?si=siHf0anZLwKMLug9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+
+    <!--Contactanos tipo formulario-->
+    <section>
+        <h2>Contáctanos</h2>
+        <form action="#" method="post">
+            <label for="nombre">Nombre</label><br>
+            <input type="text" id="nombre" name="nombre"><br><br>
+            <label for="email">Correo Electrónico</label><br>
+            <input type="email" id="email" name="email"><br><br>
+            <input type="submit" value="Enviar">
+        </form>
+
+        <h3>Nuestra ubicación</h3>
+        <iframe src="https://maps.app.goo.gl/E6uhN3YtwyDaXPvJ8" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </section>
+
+    <!--Footer-->
+    <footer style="background-color: lightblue;font-family: Arial, Helvetica, sans-serif;">
+        <hr>
+        <p><a href="#">Volver al inicio</a></p>
+        <p>Todos los derechos reservados para kelvyn Feliz</p>
+    </footer>
+</cente>
+</body>
+</html>
