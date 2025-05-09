@@ -11,23 +11,18 @@
     <header>
         <h1 style="background-color: rgb(73, 16, 196);font-family:Times New Roman, Helvetica, sans-serif;">Nueva serie</h1>
     </header>
-
     <!--Seccion de serie destacada-->
     <section>
         <h2>The Blacklist</h2>
-
         <article>
             <h3>The Blacklist es una serie de televisión estadounidense de drama y crimen</h3>
             <p><b>Una serie que revoluciona</b> ha sido publicada y creada por Jon Bokenkamp. Se estrenó en 2013  <i>revolucionar</i> la medicina natural.</p>
 
                <blockquote>"Serie que dejo una marca  <strong>increible</strong> en la historia de la televisión
-                    <em>buena recomendaciones </em> en varios idiomas." -the Blacklist</blockquote>
-
-            
+                    <em>buena recomendaciones </em> en varios idiomas." -the Blacklist</blockquote
             <p><mark>Fecha: 09 de Enero de 2013</mark> | <small>Publicado por: netflix</small></p>
             <hr>
         </article>
-
         <article>
             <h3>Biografia personal</h3>
             <p>Kelvyn <b>Feliz</b> Mi Biografia</p>
@@ -40,28 +35,23 @@
             <hr>
         </article>
     </section>
-
     <!--Seccion de imagenes-->
     <section>
         <h2>Imagenes del Dia</h2>
-
         <figure>
             <img src="IMG/feliz" alt="foto personal" width="500" height="300">
             <figcaption>Biografia personal</figcaption>
         </figure>
     </section>
-
     <!--Trabajando con listas-->
     <section>
         <h2>Redes social</h2>
-
         <ul style="list-style-type: square;">
             <li><a href="https://www.instagram.com/sr.kelvyn?igsh=MWFpY3I2Y2YyendxdQ%3D%3D&utm_source=qr">Red social</a></li>
             <li><a href="https://www.instagram.com/sr.kelvyn?igsh=MWFpY3I2Y2YyendxdQ%3D%3D&utm_source=qr">red social</a></li>
             <li><a href=""></a></li>
         </ul>
     </section>
-
     <!--Trabajando con tablas-->
     <section>
         <h2>Datos relevantes</h2>
@@ -84,7 +74,6 @@
             </tr>
         </table>
     </section>
-
     <!--Sección de definiciones-->
     <section>
         <h2>Glosario</h2>
@@ -95,14 +84,12 @@
             <dd>Maritima</dd>
         </dl> 
     </section>
-
     <!--Sección de videos-->
     <section>
         <h2>Video Destacado</h2>
         <p>Observa el siguiente video</p>
         <iframe width="560" height="315" src="https://youtu.be/-ikcS5PHSug?si=siHf0anZLwKMLug9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </section>
-
     <!--Contactanos tipo formulario-->
     <section>
         <h2>Contáctanos</h2>
@@ -113,7 +100,6 @@
             <input type="email" id="email" name="email"><br><br>
             <input type="submit" value="Enviar">
         </form>
-
         <h3>Nuestra ubicación</h3>
         <iframe src="https://maps.app.goo.gl/E6uhN3YtwyDaXPvJ8" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </section>
